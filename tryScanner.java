@@ -15,7 +15,7 @@ public class tryScanner {
         System.out.println("Where you come from?");
         String city = scanner.nextLine();
         System.out.println("Hello " + name + ' ' + surname);
-        System.out.println("you are " + age + " old");
+        System.out.println("you are " + age + " years old");
         System.out.println("and you come from " + city);
     }
 }
